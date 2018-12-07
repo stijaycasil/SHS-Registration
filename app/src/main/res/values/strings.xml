@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">SHS Registration</string>
+
+    <string-array name="tracks">
+    <item>ABM</item>
+    <item>TO</item>
+    <item>CULARTS</item>
+    <item>ICT</item>
+    </string-array>
+        it
 </resources>
